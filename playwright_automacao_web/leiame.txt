@@ -1,0 +1,7 @@
+Documentação: https://playwright.dev/python/docs/intro
+
+playwright install : deve ser executado para instalar navegadores que o módulo comanda e conseguir abrir instâncias do navegador.
+
+indetificação de objetos em sites: https://playwright.dev/python/docs/locators
+
+Xpath-selectors: https://playwright.dev/python/docs/selectors#xpath-selectors
